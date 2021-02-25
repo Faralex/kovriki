@@ -1293,6 +1293,10 @@ h2 {
   background-color: #2a2a2a;
 }
 
+.header-main-focus {
+  color:#d04040;
+}
+
 .page-container header.header-main::after {
   content: "";
   display: block;
@@ -2675,7 +2679,7 @@ input::placeholder {
   background-color: #646464;
   width: 100%;
   height: 58%;
-  top: 221px;
+  top: 246px;
   left: 0;
   z-index: 2;
   opacity: 30%;
